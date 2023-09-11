@@ -1,0 +1,70 @@
+body{
+    background-color: #0b141d !important;
+}
+.green{
+    color: #40e060;
+}
+.white{
+    color: #ffffff;
+}
+.post_button_area a{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    color: #202F37;
+    padding: 14px 19px;
+    background: #40E06C;
+    box-shadow: 0px 30px 60px rgba(99, 241, 114, 0.3);
+    border-radius: 2px;
+    text-decoration: none;
+}
+.more_comments{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 18px;
+    color: #202F37;
+    padding: 14px 19px;
+    background: #40E06C;
+    box-shadow: 0px 30px 60px rgba(99, 241, 114, 0.3);
+    border-radius: 2px;
+    text-decoration: none;
+}
+.post_card{
+    background-color: #23343d;
+    padding: 15px 0px;
+}
+.post_icons {
+	justify-content: center;
+	position: absolute;
+	right: 15px;
+	bottom: 15px;
+}
+.post_icons img {
+	margin-left: 22px;
+	width: 50% !important;
+}
+.post_icons a {
+	width: 65px;
+	margin: 0px 5px 0px 10px;
+}
+.post_icons a span {
+	top: -11px;
+	right: 0;
+	background-color: red;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	padding-bottom: 5px;
+	border-radius: 20px;
+	color: #ffffff;
+	font-size: 12px;
+}
+@media (min-width: 200px) and (max-width: 991.98px) { 
+    .margin_niche{
+        margin-top: 80px !important;
+    }
+ }
